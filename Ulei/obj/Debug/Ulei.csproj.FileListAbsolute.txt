@@ -1,0 +1,10 @@
+D:\z_tp\C_sharp\Ulei\Ulei\bin\Debug\Ulei.exe.config
+D:\z_tp\C_sharp\Ulei\Ulei\bin\Debug\Ulei.exe
+D:\z_tp\C_sharp\Ulei\Ulei\bin\Debug\Ulei.pdb
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.csprojResolveAssemblyReference.cache
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.Form1.resources
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.Properties.Resources.resources
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.csproj.GenerateResource.Cache
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.csproj.CoreCompileInputs.cache
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.exe
+D:\z_tp\C_sharp\Ulei\Ulei\obj\Debug\Ulei.pdb
